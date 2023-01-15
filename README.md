@@ -2,30 +2,30 @@
 
 ![](https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif)
 
-## [Computer Science](./computer-science/)
+## Computer Science
 
 - [Command-Query Separation (CQS)](./computer-science/cqs.md)
 
-## [Frontend](./frontend/)
+## Frontend
 
 - [낙관적 업데이트 (Optimistic Update)](./frontend/)
 
-## [JavaScript](./javascript/)
+## JavaScript
 
 - [JavaScript 에서는 Object가 있는데 왜 굳이 Map 을 만들었을까?](./javascript/map-vs-object.md)
 
-## [React-Query](./react-query)
+## React-Query
 
 - [placeholder data vs initialData](./react-query/initialData-placeholderData.md)
 - [리액트 쿼리 이모저모 기록](./react-query/react-query-anything.md)
 
-## [독서노트](./books/)
+## 독서노트
 
-### [리팩터링 2판](./books/refactoring2nd/)
+### 리팩터링 2판
 
 - [2장 독서노트](./books/refactoring2nd/chapter2.md)
 
-## [Conference](./conference)
+## Conference
 
 - [feconf2021 - 나는 왜 리액트를 사랑하는가](./conference/feconf21-why-i-love-react.md)
 - [feconf2021 - Statecharts: 복잡한 UI 상태를 지배하는 방법](./conference/feconf21-statecharts.md)
