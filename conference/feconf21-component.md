@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=HYgKBvLr49c
 
 #### before
 
-```
+```ts
 
 interface Props {
     leftImageThumbnailUrl: string
@@ -64,27 +64,27 @@ interface Props {
 
 #### after
 
-```
+```ts
 interface Props {
-    userImageThumbnailUrl: string
-    userName: string
-    userNickname: string
-    userTotalFollowerCount: number
-    userLastActivityAt: Date
+  userImageThumbnailUrl: string;
+  userName: string;
+  userNickname: string;
+  userTotalFollowerCount: number;
+  userLastActivityAt: Date;
 }
 
 // -> User 와 Image 간의 정보 연결하기
 
 interface Props {
-    user:{
-        name: string
-        nickname:string
-        totalFollowerCount: number
-        lastActivityAt: Date
-    image : {
-            thumbnailUrl:string
-        }
-    }
+  user: {
+    name: string;
+    nickname: string;
+    totalFollowerCount: number;
+    lastActivityAt: Date;
+    image: {
+      thumbnailUrl: string;
+    };
+  };
 }
 ```
 

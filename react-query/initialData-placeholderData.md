@@ -3,16 +3,12 @@
 출처 - [https://tkdodo.eu/blog/placeholder-and-initial-data-in-react-query](https://tkdodo.eu/blog/placeholder-and-initial-data-in-react-query)
 ​
 
-​
-
 - 둘 다 동기적으로 사용할 수 있는 데이터로 캐시를 미리 채우는 방법을 제공
 - 즉, 이 중 하나가 제공되면 쿼리가 로드 상태가 아니라 성공 상태로 직접 이동한다는 의미
 - 캐시에 이미 데이터가 있는 경우 둘 다 효과가 없음
   ​
 
 ### Observer level
-
-​
 
 - 리액트 쿼리의 관찰자는 일반적으로 하나의 캐시 항목에 대해 생성된 구독이다.
 - 관찰자는 캐시 항목의 변경사항을 관찰하고, 변경 사항이 있을 때마다 알림을 받는다.

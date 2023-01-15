@@ -30,7 +30,7 @@ if (groupsQuery.isSuccess) {
 - 함수당 하나의 Query Key factory를 추천한다.
 - etries and functions이 있는 간단한 객체일 뿐이며 쿼리 키를 생성하고, 이를 Custom Hook에서 사용할 수 있기 때문.
 
-```
+```jsx
 const todoKeys = {
   all: ['todos'] as const,
   lists: () => [...todoKeys.all, 'list'] as const,
@@ -42,27 +42,26 @@ const todoKeys = {
 
 - 따라서 각 레벨은 다른 레벨 위에 구축되지만 독립적으로 액세스할 수 있으므로 유연성이 높다.
 
-```
-
+```jsx
 // 🕺 remove everything related to the todos feature
-queryClient.removeQueries(todoKeys.all)
+queryClient.removeQueries(todoKeys.all);
 
 // 🚀 invalidate all the lists
-queryClient.invalidateQueries(todoKeys.lists())
+queryClient.invalidateQueries(todoKeys.lists());
 
 // 🙌 prefetch a single todo
-queryClient.prefetchQueries(todoKeys.detail(id), () => fetchTodo(id))
+queryClient.prefetchQueries(todoKeys.detail(id), () => fetchTodo(id));
 ```
 
 ## queryKey 와 상태의 종속성 비동기화 문제
 
-```
+```jsx
 export const useTodos = () => {
-  const { state, sorting } = useTodoParams()
+  const { state, sorting } = useTodoParams();
 
   // 🚨 can you spot the mistake ⬇️
-  return useQuery(['todos', state], () => fetchTodos(state, sorting))
-}
+  return useQuery(["todos", state], () => fetchTodos(state, sorting));
+};
 ```
 
 - queryKey는 실제 의존성과 동기화되지 않았으며, 이에 대해 오류를 나타내는 빨간 줄은 없다.
@@ -83,18 +82,18 @@ useInfiniteQuery('projects', fetchProjects, {
 
 - 그러나 컨텍스트에는 이 쿼리에 사용되는 queryKey도 포함되어 있다. 즉, React Query에 의해 제공된다.
 
-```
+```jsx
 const fetchTodos = async ({ queryKey }) => {
   // 🚀 we can get all params from the queryKey
-  const [, state, sorting] = queryKey
-  const response = await axios.get(`todos/${state}?sorting=${sorting}`)
-  return response.data
-}
+  const [, state, sorting] = queryKey;
+  const response = await axios.get(`todos/${state}?sorting=${sorting}`);
+  return response.data;
+};
 
 export const useTodos = () => {
-  const { state, sorting } = useTodoParams()
+  const { state, sorting } = useTodoParams();
 
   // ✅ no need to pass parameters manually
-  return useQuery(['todos', state, sorting], fetchTodos)
-}
+  return useQuery(["todos", state, sorting], fetchTodos);
+};
 ```
