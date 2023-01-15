@@ -1,6 +1,6 @@
 # 우리는 하나다! 모노레포 with pnpm
 
-<iframe src="https://www.youtube.com/embed/Bycg5w5qXfE" width="950" height="534" frameborder="0" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=Bycg5w5qXfE
 
 ## 이전- 모놀리식 애플리케이션
 

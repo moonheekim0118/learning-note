@@ -1,6 +1,6 @@
 # Effective Component 지속 가능한 성장과 컴포넌트
 
-<iframe src="https://www.youtube.com/embed/fR8tsJ2r7Eg" width="950" height="534" frameborder="0" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=fR8tsJ2r7Eg
 
 - 변경 발생 ?
   - 놓쳤던 고객 니즈를 발견한것

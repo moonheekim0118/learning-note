@@ -1,6 +1,6 @@
 # 나는 왜 리액트를 사랑하는가
 
-<iframe src="https://www.youtube.com/embed/dJAEWhR83Ug" width="915" height="515" frameborder="0" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=dJAEWhR83Ug
 
 출근길 지하철에서 본 영상이다. 영상을 보면서 아주 빠르게 바뀌는 프론트엔드 생태계에서 왜 여전히 리액트의 위치가 견고한지 이유를 알 수 있었다. 또한, 내가 왜 리액트를 좋아하는지에 대한 멘탈모델도 단단하게 만들 수 있었다.  
 영상초반에서는 리액트를 하나의 UI 프로그래밍 언어로 바라보고 설명한다.  

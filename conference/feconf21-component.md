@@ -1,6 +1,6 @@
 # 컴포넌트 다시 생각하기
 
-<iframe src="https://www.youtube.com/embed/HYgKBvLr49c" width="950" height="534" frameborder="0" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=HYgKBvLr49c
 
 ## 리액트 컴포넌트의 의존성 파악하기
 

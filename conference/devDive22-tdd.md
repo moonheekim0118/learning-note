@@ -1,6 +1,6 @@
 # 내 코드의 품질을 높여주는 Type-Driven Development
 
-<iframe src="https://www.youtube.com/embed/M3pMCZqPvzI" width="950" height="534" frameborder="0" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=M3pMCZqPvzI
 
 ## 타입 주도 개발
 

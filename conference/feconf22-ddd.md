@@ -6,8 +6,6 @@
 
 ## 왜 DDD
 
-​
-
 - 복잡함 -> 단순함
 - 커뮤니케이션을 위해
 - 백엔드에서 DDD 와 프론트엔드에서 DDD의 유사성 - 리덕스 동작방식/사용방식이랑 매우 비슷하다.
@@ -15,11 +13,7 @@
 
 ## 어떻게 DDD 를 도입할 수 있을까?
 
-​
-
 ### DDD 란?
-
-​
 
 - 실제 세상의 Product를 나타내는 소프트웨어를 만드는데 포커스를 둔다.
 - Strategic Design
@@ -33,13 +27,11 @@
 
 ## Layered 구조
 
-​
 [##_Image|kage@dspt1g/btrWitrgMWz/LQ4efeoEjvevIJZBBkw4tK/img.png|CDM|1.3|{"originWidth":1040,"originHeight":582,"style":"alignCenter","caption":"null"}_##]
 ​
 
 ## Hexagonal 구조
 
-​
 [##_Image|kage@lpD5J/btrWeYyFtL4/Vkvro0DKioEmkEZHupKSn0/img.png|CDM|1.3|{"originWidth":1042,"originHeight":572,"style":"alignCenter","caption":"null"}_##][##_image|kage@ga5il/btrwdfohvjn/24vc7zr67emdcytce3exik/img.png|cdm|1.3|{"originwidth":1042,"originheight":596,"style":"aligncenter","caption":"null"}_##]
 ​
 
@@ -47,8 +39,6 @@
   ​
 
 ### 생각
-
-​
 
 - 리덕스를 생각하면 쉬울 것 같다.
 - 결국 발표에서도 말씀해주시듯, 컴포넌트를 분리할 때는 Common 계층과 Domain에 종속적인 계층을 분리하는 것만으로도 큰 효과를 얻을 수 있을듯?
