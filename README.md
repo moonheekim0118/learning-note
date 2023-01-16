@@ -24,6 +24,7 @@
 ### 리팩터링 2판
 
 - [2장 독서노트](./books/refactoring2nd/chapter2.md)
+- [3장 독서노트 - 코드에서 나는 악취](./books/refactoring2nd/chapter3.md)
 
 ## Conference
 
