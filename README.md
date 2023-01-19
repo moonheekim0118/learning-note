@@ -8,7 +8,7 @@
 
 ## Frontend
 
-- [낙관적 업데이트 (Optimistic Update)](./frontend/)
+- [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 
 ## JavaScript
 
