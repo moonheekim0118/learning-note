@@ -1,6 +1,6 @@
 # 공부노트📚
 
-## Computer Science
+## 💫 Computer Science
 
 ### 운영체제
 
@@ -13,7 +13,7 @@
 - [뮤텍스와 세마포어](./computer-science/operating-system/07-%EB%AE%A4%ED%85%8D%EC%8A%A4_%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4.md)
 - [동시성 제어의 고전적 문제들](./computer-science/operating-system/08-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4%EC%9D%98%EB%AC%B8%EC%A0%9C%EB%93%A4.md)
 
-## 네트워크
+### 네트워크
 
 - [OSI 7계층](./computer-science/network/01-OSI7%EA%B3%84%EC%B8%B5.md)
 - [CORS](./computer-science/network/02-CORS.md)
@@ -38,27 +38,27 @@
 
 - [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
 
-## Frontend
+## 💫 Frontend
 
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 
-## JavaScript
+## 💫 JavaScript
 
 - [JavaScript 에서는 Object가 있는데 왜 굳이 Map 을 만들었을까?](./javascript/map-vs-object.md)
 
-## React-Query
+## 💫 React-Query
 
 - [placeholder data vs initialData](./react-query/initialData-placeholderData.md)
 - [리액트 쿼리 이모저모 기록](./react-query/react-query-anything.md)
 
-## 독서노트
+## 💫 독서노트
 
 ### 리팩터링 2판
 
 - [2장 독서노트](./books/refactoring2nd/chapter2.md)
 - [3장 독서노트 - 코드에서 나는 악취](./books/refactoring2nd/chapter3.md)
 
-## Conference
+## 💫 Conference & Articles
 
 - [feconf2021 - 나는 왜 리액트를 사랑하는가](./conference/feconf21-why-i-love-react.md)
 - [feconf2021 - Statecharts: 복잡한 UI 상태를 지배하는 방법](./conference/feconf21-statecharts.md)
