@@ -11,12 +11,13 @@
 ### 운영체제
 
 - [운영체제 개념, 운영체제 구조](./computer-science/operating-system/01-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EA%B0%9C%EB%85%90.md)
-- [프로세스와 쓰레드](./computer-science/operating-system/02-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EC%93%B0%EB%A0%88%EB%93%9C.md)
+- [프로세스와 쓰레드](./computer-science/operating-system/02-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EC%93%B0%EBs%A0%88%EB%93%9C.md)
 - [IPC(Interprocess Communication)](./computer-science/operating-system/03-ipc.md)
 - [IPC 통신 방법 (Socket과 RPC)](./computer-science/operating-system/04-ipc%ED%86%B5%EC%8B%A0%EB%B0%A9%EB%B2%95.md)
 - [멀티 쓰레드](./computer-science/operating-system/05-%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C.md)
 - [프로세스 동기화](./computer-science/operating-system/06-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8F%99%EA%B8%B0%ED%99%94.md)
 - [뮤텍스와 세마포어](./computer-science/operating-system/07-%EB%AE%A4%ED%85%8D%EC%8A%A4_%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4.md)
+- [동시성 제어의 고전적 문제들](./computer-science/operating-system/08-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4%EC%9D%98%EB%AC%B8%EC%A0%9C%EB%93%A4.md)
 
 ## Frontend
 
