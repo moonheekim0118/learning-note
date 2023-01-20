@@ -46,6 +46,7 @@
 ## 💫 JavaScript
 
 - [JavaScript 에서는 Object가 있는데 왜 굳이 Map 을 만들었을까?](./javascript/map-vs-object.md)
+- [for...in 과 for...of의 차이점](./javascript/forin-forof.md)
 
 ## 💫 React-Query
 
