@@ -43,6 +43,7 @@
 
 - [브라우저 렌더링 과정](./frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
+- [웹 성능 최적화](./frontend/%08%EC%9B%B9%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94.md)
 
 ## 💫 JavaScript
 
