@@ -41,7 +41,6 @@
 
 ## 💫 Frontend
 
-- [SSR과 CSR](./frontend/SSR-CSR.md)
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 
 ## 💫 JavaScript
@@ -53,6 +52,11 @@
 - [프로토타입](./javascript/prototype.md)
 - [클로저](./javascript/closure.md)
 - [this](./javascript/this.md)
+
+## 💫 Web
+
+- [Realtime web](./web/realtime-web.md)
+- [SSR과 CSR](./frontend/SSR-CSR.md)
 
 ## 💫 React-Query
 
