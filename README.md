@@ -95,6 +95,7 @@
 
 ## 💫 Conference & Articles
 
+- [Managing React Application State Management - Talk by Kent C. Dodds](./conference/Managing%20React%20Application%20State%20Management%20-%20Talk%20by%20Kent%20C.%20Dodds.md)
 - [feconf2021 - 나는 왜 리액트를 사랑하는가](./conference/feconf21-why-i-love-react.md)
 - [feconf2021 - Statecharts: 복잡한 UI 상태를 지배하는 방법](./conference/feconf21-statecharts.md)
 - [feconf2021 - 컴포넌트 다시 생각하기](./conference/feconf21-component.md)
