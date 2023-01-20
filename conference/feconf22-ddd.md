@@ -27,13 +27,7 @@
 
 ## Layered 구조
 
-[##_Image|kage@dspt1g/btrWitrgMWz/LQ4efeoEjvevIJZBBkw4tK/img.png|CDM|1.3|{"originWidth":1040,"originHeight":582,"style":"alignCenter","caption":"null"}_##]
-​
-
 ## Hexagonal 구조
-
-[##_Image|kage@lpD5J/btrWeYyFtL4/Vkvro0DKioEmkEZHupKSn0/img.png|CDM|1.3|{"originWidth":1042,"originHeight":572,"style":"alignCenter","caption":"null"}_##][##_image|kage@ga5il/btrwdfohvjn/24vc7zr67emdcytce3exik/img.png|cdm|1.3|{"originwidth":1042,"originheight":596,"style":"aligncenter","caption":"null"}_##]
-​
 
 - adapter 가 하는 일은 상태관리 라이브러리들이 하는 일을 떠올리면 된다.
   ​
