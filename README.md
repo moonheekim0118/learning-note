@@ -4,7 +4,13 @@
 
 ## Computer Science
 
+### 디자인패턴
+
 - [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
+
+### 운영체제
+
+- [운영체제 개념, 운영체제 구조](./computer-science/operating-system/01-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EA%B0%9C%EB%85%90.md)
 
 ## Frontend
 
