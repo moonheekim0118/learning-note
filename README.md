@@ -20,6 +20,7 @@
 - [TCP/UDP](./computer-science/network/03-tcpudp.md)
 - [HTTP](./computer-science/network/04.http.md)
 - [HTTP 와 HTTPS 비교](./computer-science/network/06-https.md)
+- [대칭키와 비대칭키 비교](./computer-science/network/08-%EB%8C%80%EC%B9%AD%ED%82%A4%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 - [쿠키와 세션](./computer-science/network/05-cookieSession.md)
 - [검색창에 구글을 치면 일어나는 일](./computer-science/network/07-google.md)
 
