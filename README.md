@@ -4,7 +4,7 @@
 
 ## Computer Science
 
-- [Command-Query Separation (CQS)](./computer-science/cqs.md)
+- [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
 
 ## Frontend
 
