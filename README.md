@@ -41,6 +41,7 @@
 
 ## 💫 Frontend
 
+- [브라우저 렌더링 과정](./frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 
 ## 💫 JavaScript
