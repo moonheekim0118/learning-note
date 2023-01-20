@@ -4,10 +4,6 @@
 
 ## Computer Science
 
-### 디자인패턴
-
-- [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
-
 ### 운영체제
 
 - [운영체제 개념, 운영체제 구조](./computer-science/operating-system/01-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EA%B0%9C%EB%85%90.md)
@@ -18,6 +14,21 @@
 - [프로세스 동기화](./computer-science/operating-system/06-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8F%99%EA%B8%B0%ED%99%94.md)
 - [뮤텍스와 세마포어](./computer-science/operating-system/07-%EB%AE%A4%ED%85%8D%EC%8A%A4_%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4.md)
 - [동시성 제어의 고전적 문제들](./computer-science/operating-system/08-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%A0%9C%EC%96%B4%EC%9D%98%EB%AC%B8%EC%A0%9C%EB%93%A4.md)
+
+### 자료구조 & 알고리즘
+
+- [다항식 계산, 희소행렬](./computer-science/data-structure/01-%EB%8B%A4%ED%95%AD%EC%8B%9D%EA%B3%84%EC%82%B0_%ED%9D%AC%EC%86%8C%ED%96%89%EB%A0%AC.md)
+- [배열리스트와 연결리스트](./computer-science/data-structure/02-%EB%B0%B0%EC%97%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [이진 탐색 트리](./computer-science/data-structure/03-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.md)
+- [우선 순위 큐](./computer-science/data-structure/04-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md)
+- [기초 정렬 알고리즘 - 선택,삽입,쉘,버블](./computer-science/data-structure/05-%EA%B8%B0%EC%B4%88%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+- [머지 소트](./computer-science/data-structure/06-%EB%A8%B8%EC%A7%80%EC%86%8C%ED%8A%B8.md)
+- [일반 퀵소트](./computer-science/data-structure/07-%EC%9D%BC%EB%B0%98-%ED%80%B5%EC%86%8C%ED%8A%B8.md)
+- [중간값 퀵소트](./computer-science/data-structure/08-%EC%A4%91%EA%B0%84%EA%B0%92-%ED%80%B5%EC%86%8C%ED%8A%B8.md)
+
+### 디자인패턴
+
+- [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
 
 ## Frontend
 
