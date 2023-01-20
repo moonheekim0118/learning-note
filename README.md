@@ -23,6 +23,8 @@
 - [대칭키와 비대칭키 비교](./computer-science/network/08-%EB%8C%80%EC%B9%AD%ED%82%A4%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 - [쿠키와 세션](./computer-science/network/05-cookieSession.md)
 - [검색창에 구글을 치면 일어나는 일](./computer-science/network/07-google.md)
+- [DNS](./computer-science/network/09-DNS.md)
+- [CDN](./computer-science/network/10-CDN.md)
 
 ### 자료구조 & 알고리즘
 
@@ -44,6 +46,7 @@
 - [브라우저 렌더링 과정](./frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 - [웹 성능 최적화](./frontend/%08%EC%9B%B9%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94.md)
+  - [웹 성능 최적화 요약](./frontend/%EC%9B%B9%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9A%94%EC%95%BD.md)
 
 ## 💫 JavaScript
 
