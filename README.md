@@ -1,7 +1,5 @@
 # 공부노트📚
 
-![](https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif)
-
 ## Computer Science
 
 ### 운영체제
