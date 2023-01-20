@@ -54,6 +54,13 @@
 - [클로저](./javascript/closure.md)
 - [this](./javascript/this.md)
 
+## 💫 TypeScript
+
+- [구조적 타이핑](./typescript/%EA%B5%AC%EC%A1%B0%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91.md)
+- [타입가드](./typescript/%ED%83%80%EC%9E%85%EA%B0%80%EB%93%9C.md)
+- [타입 단언 vs 타입 선언](./typescript/%ED%83%80%EC%9E%85%EC%84%A0%EC%96%B8vs%EB%8B%A8%EC%96%B8.md)
+- [타입스크립트에서 any 와 unknown, never 타입의 차이점](./typescript/any-unknown-never.md)
+
 ## 💫 Web
 
 - [Realtime web](./web/realtime-web.md)
