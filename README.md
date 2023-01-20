@@ -47,6 +47,7 @@
 - [낙관적 업데이트 (Optimistic Update)](./frontend/optimistic-update.md)
 - [웹 성능 최적화](./frontend/%08%EC%9B%B9%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94.md)
   - [웹 성능 최적화 요약](./frontend/%EC%9B%B9%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9A%94%EC%95%BD.md)
+  - [Critical Rendering Path](./frontend/critical-rendering-path.md)
 
 ## 💫 JavaScript
 
