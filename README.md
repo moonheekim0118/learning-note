@@ -64,7 +64,8 @@
 ## 💫 Web
 
 - [Realtime web](./web/realtime-web.md)
-- [SSR과 CSR](./frontend/SSR-CSR.md)
+- [SSR과 CSR](./web/SSR-CSR.md)
+- [Restful](./web/restful.md)
 
 ## 💫 React-Query
 
