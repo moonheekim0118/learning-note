@@ -87,6 +87,7 @@
 
 - [placeholder data vs initialData](./react-query/initialData-placeholderData.md)
 - [리액트 쿼리 이모저모 기록](./react-query/react-query-anything.md)
+- [prefetch 사용하기](./react-query/prefetch.md)
 
 ## 💫 독서노트
 
