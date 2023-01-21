@@ -25,6 +25,7 @@
 - [검색창에 구글을 치면 일어나는 일](./computer-science/network/07-google.md)
 - [DNS](./computer-science/network/09-DNS.md)
 - [CDN](./computer-science/network/10-CDN.md)
+- [Stale-While-Revalidate](./computer-science/network/11-stale-while-revalidate.md)
 
 ### 자료구조 & 알고리즘
 
