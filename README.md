@@ -1,5 +1,7 @@
 # 공부노트📚
 
+- [알고리즘 풀이는 요기😙](https://github.com/moonheekim0118/Algorithm)
+
 ## 💫 Computer Science
 
 ### 운영체제
