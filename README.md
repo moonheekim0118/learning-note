@@ -63,6 +63,7 @@
 - [프로토타입](./javascript/prototype.md)
 - [클로저](./javascript/closure.md)
 - [this](./javascript/this.md)
+- [Promise](./javascript/promise.md)
 
 ## 💫 TypeScript
 
