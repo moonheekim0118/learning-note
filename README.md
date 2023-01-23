@@ -28,6 +28,7 @@
 - [DNS](./computer-science/network/09-DNS.md)
 - [CDN](./computer-science/network/10-CDN.md)
 - [Stale-While-Revalidate](./computer-science/network/11-stale-while-revalidate.md)
+- [웹서버 vs WAS](./computer-science/network/12-webserver-was.md)
 
 ### 자료구조 & 알고리즘
 
