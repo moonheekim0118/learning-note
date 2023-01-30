@@ -45,6 +45,7 @@
 ### 디자인패턴
 
 - [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
+- [디메테르 법칙 - 최소 지식 원칙](./computer-science/design-pattern/demeter.md)
 
 ## 💫 Frontend
 
