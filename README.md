@@ -59,6 +59,7 @@
 - [npm vs yarn](./frontend/npm-vs-yarn.md)
 - [Axios Interceptor 와 Cancel Token](./frontend/axios.md)
 - [Incremental Static Regeneration 증분 정적 빌드](./frontend/ISR.md)
+- [Windowing](./frontend/windowing.md)
 
 ## 💫 JavaScript
 
