@@ -58,6 +58,7 @@
 - [HTML 렌더링 중에 자바스크립트가 실행되면 렌더링이 멈추는 이유](./frontend/%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%ED%83%9C%EA%B7%B8_%ED%8C%8C%EC%8B%B1%EC%A4%91%EB%8B%A8.md)
 - [npm vs yarn](./frontend/npm-vs-yarn.md)
 - [Axios Interceptor 와 Cancel Token](./frontend/axios.md)
+- [Incremental Static Regeneration 증분 정적 빌드](./frontend/ISR.md)
 
 ## 💫 JavaScript
 
