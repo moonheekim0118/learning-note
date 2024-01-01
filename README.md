@@ -104,7 +104,7 @@
 - [리액트 쿼리 이모저모 기록](./react-query/react-query-anything.md)
 - [prefetch 사용하기](./react-query/prefetch.md)
 
-## Infra
+## 💫 Infra
 
 - [CF의 lambda function이 뭘까](./infra/lambdafunction.md)
 - [멀티 태넌시, 싱글 태넌시가 뭘까](./infra/multi-tenant.md)
