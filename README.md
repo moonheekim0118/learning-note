@@ -107,6 +107,7 @@
 ## Infra
 
 - [CF의 lambda function이 뭘까](./infra/lambdafunction.md)
+- [멀티 태넌시, 싱글 태넌시가 뭘까](./infra/multi-tenant.md)
 
 ## 💫 독서노트
 
