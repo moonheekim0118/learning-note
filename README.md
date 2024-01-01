@@ -104,6 +104,10 @@
 - [리액트 쿼리 이모저모 기록](./react-query/react-query-anything.md)
 - [prefetch 사용하기](./react-query/prefetch.md)
 
+## Infra
+
+- [CF의 lambda function이 뭘까](./infra/lambdafunction.md)
+
 ## 💫 독서노트
 
 ### 리팩터링 2판
