@@ -135,3 +135,4 @@
 - [feconf2022 - 내 import 문이 그렇게 이상했나요?](./conference/feconf22-import.md)
 - [if(kakao)2022 - 섬세한 ISFP의 코드 가독성 개선 경험](./conference/kakao22-cleancode.md)
 - [Why We're Breaking Up with CSS-in-JS (CSS-in-Js 장단점)](./conference/pros-cons-css-in-js.md)
+- [feconf2023 - 대형 웹 애플리케이션 Micro Frontend 전환기](./conference/feconf23-microfrontend.md)
