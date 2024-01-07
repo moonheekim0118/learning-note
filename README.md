@@ -42,6 +42,10 @@
 - [일반 퀵소트](./computer-science/data-structure/07-%EC%9D%BC%EB%B0%98-%ED%80%B5%EC%86%8C%ED%8A%B8.md)
 - [중간값 퀵소트](./computer-science/data-structure/08-%EC%A4%91%EA%B0%84%EA%B0%92-%ED%80%B5%EC%86%8C%ED%8A%B8.md)
 
+### 데이터베이스
+
+- [트랜잭션이란](./computer-science/database/transaction.md)
+
 ### 디자인패턴
 
 - [Command-Query Separation (CQS)](./computer-science/design-pattern/cqs.md)
