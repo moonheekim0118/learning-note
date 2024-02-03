@@ -65,6 +65,7 @@
 - [Incremental Static Regeneration 증분 정적 빌드](./frontend/ISR.md)
 - [Windowing](./frontend/windowing.md)
 - [Micro-Frontend](./frontend/microfrontend.md.md)
+- [모듈 페더레이션의 공유 의존성](./frontend/모듈페러데이션-공유의존성.md)
 
 ## 💫 JavaScript
 
