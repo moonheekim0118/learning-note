@@ -127,6 +127,10 @@
 - [2장 독서노트](./books/refactoring2nd/chapter2.md)
 - [3장 독서노트 - 코드에서 나는 악취](./books/refactoring2nd/chapter3.md)
 
+### 좋은 코드 나쁜 코드
+
+- [10장 좋은 단위 테스트의 원칙 몇가지](./books/goodcode-badcode/unit-test-guide.md)
+
 ## 💫 Conference & Articles
 
 - [Managing React Application State Management - Talk by Kent C. Dodds](./conference/Managing%20React%20Application%20State%20Management%20-%20Talk%20by%20Kent%20C.%20Dodds.md)
