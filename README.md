@@ -129,6 +129,7 @@
 
 ### 좋은 코드 나쁜 코드
 
+- [2장 추상화 계층](./books/goodcode-badcode/chapter2.md)
 - [10장 좋은 단위 테스트의 원칙 몇가지](./books/goodcode-badcode/unit-test-guide.md)
 
 ## 💫 Conference & Articles
