@@ -66,7 +66,8 @@
 - [Windowing](./frontend/windowing.md)
 - [Micro-Frontend](./frontend/microfrontend.md.md)
 - [모듈 페더레이션의 공유 의존성](./frontend/모듈페러데이션-공유의존성.md)
-- [제어의 역전](./frontend/제어의역전.md);
+- [제어의 역전](./frontend/제어의역전.md)
+- [기능 분할 설계 (fsd)](./frontend/fsd.md)
 
 ## 💫 JavaScript
 
