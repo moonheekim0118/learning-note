@@ -1,3 +1,5 @@
+# https://mooneewiki.vercel.app/ <- 이제 여기서 기록중 🏄🏻‍♀️
+
 # 공부노트📚
 
 - [알고리즘 풀이는 요기😙](https://github.com/moonheekim0118/Algorithm)
